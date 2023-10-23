@@ -1,44 +1,41 @@
 time:timestamp	log_type	concept:name	case:concept:name
-2023-10-08 17:43:06,378	INFO	1	428900901
-2023-10-08 17:43:08,449	INFO	0	428900901
-2023-10-08 17:43:19,219	INFO	2	428900901
-2023-10-08 17:43:21,101	INFO	0	428900901
-2023-10-08 17:43:29,424	INFO	3	428900901
-2023-10-08 17:43:29,645	INFO	0	428900901
-2023-10-08 17:43:38,979	INFO	4	428900901
-2023-10-08 17:43:41,006	INFO	0	428900901
-2023-10-08 17:43:44,529	INFO	5	428900901
-2023-10-08 17:43:45,139	ERROR	6	428900901
-2023-10-08 17:43:45,139	INFO	0	428900901
-2023-10-08 17:43:50,121	INFO	5	428900901
-2023-10-08 17:43:50,773	ERROR	6	428900901
-2023-10-08 17:43:50,773	INFO	0	428900901
-2023-10-08 17:47:23,038	INFO	5	428900901
-2023-10-08 17:47:23,356	ERROR	6	428900901
-2023-10-08 17:47:23,356	INFO	0	428900901
-2023-10-08 17:51:30,363	DEBUG	deprecate positional args: graphviz.backend.piping.pipe(['renderer', 'formatter', 'neato_no_op', 'quiet'])
-2023-10-08 17:51:30,365	DEBUG	deprecate positional args: graphviz.backend.rendering.render(['renderer', 'formatter', 'neato_no_op', 'quiet'])
-2023-10-08 17:51:30,366	DEBUG	deprecate positional args: graphviz.backend.unflattening.unflatten(['stagger', 'fanout', 'chain', 'encoding'])
-2023-10-08 17:51:30,367	DEBUG	deprecate positional args: graphviz.backend.viewing.view(['quiet'])
-2023-10-08 17:51:30,371	DEBUG	deprecate positional args: graphviz.quoting.quote(['is_html_string', 'is_valid_id', 'dot_keywords', 'endswith_odd_number_of_backslashes', 'escape_unescaped_quotes'])
-2023-10-08 17:51:30,372	DEBUG	deprecate positional args: graphviz.quoting.a_list(['kwargs', 'attributes'])
-2023-10-08 17:51:30,372	DEBUG	deprecate positional args: graphviz.quoting.attr_list(['kwargs', 'attributes'])
-2023-10-08 17:51:30,372	DEBUG	deprecate positional args: graphviz.dot.Dot.clear(['keep_attrs'])
-2023-10-08 17:51:30,372	DEBUG	deprecate positional args: graphviz.dot.Dot.__iter__(['subgraph'])
-2023-10-08 17:51:30,372	DEBUG	deprecate positional args: graphviz.dot.Dot.node(['_attributes'])
-2023-10-08 17:51:30,372	DEBUG	deprecate positional args: graphviz.dot.Dot.edge(['_attributes'])
-2023-10-08 17:51:30,372	DEBUG	deprecate positional args: graphviz.dot.Dot.attr(['_attributes'])
-2023-10-08 17:51:30,372	DEBUG	deprecate positional args: graphviz.dot.Dot.subgraph(['name', 'comment', 'graph_attr', 'node_attr', 'edge_attr', 'body'])
-2023-10-08 17:51:30,374	DEBUG	deprecate positional args: graphviz.piping.Pipe._pipe_legacy(['renderer', 'formatter', 'neato_no_op', 'quiet'])
-2023-10-08 17:51:30,375	DEBUG	deprecate positional args: graphviz.saving.Save.save(['directory'])
-2023-10-08 17:51:30,375	DEBUG	deprecate positional args: graphviz.rendering.Render.render(['directory', 'view', 'cleanup', 'format', 'renderer', 'formatter', 'neato_no_op', 'quiet', 'quiet_view'])
-2023-10-08 17:51:30,375	DEBUG	deprecate positional args: graphviz.rendering.Render.view(['directory', 'cleanup', 'quiet', 'quiet_view'])
-2023-10-08 17:51:30,376	DEBUG	deprecate positional args: graphviz.unflattening.Unflatten.unflatten(['stagger', 'fanout', 'chain'])
-2023-10-08 17:51:30,376	DEBUG	deprecate positional args: graphviz.graphs.BaseGraph.__init__(['comment', 'filename', 'directory', 'format', 'engine', 'encoding', 'graph_attr', 'node_attr', 'edge_attr', 'body', 'strict'])
-2023-10-08 17:51:30,377	DEBUG	deprecate positional args: graphviz.sources.Source.from_file(['directory', 'format', 'engine', 'encoding', 'renderer', 'formatter'])
-2023-10-08 17:51:30,377	DEBUG	deprecate positional args: graphviz.sources.Source.__init__(['filename', 'directory', 'format', 'engine', 'encoding'])
-2023-10-08 17:51:30,377	DEBUG	deprecate positional args: graphviz.sources.Source.save(['directory'])
-2023-10-08 17:51:30,749	DEBUG	matplotlib data path: /Users/user/PycharmProjects/university-data-analysis/venv/lib/python3.9/site-packages/matplotlib/mpl-data
-2023-10-08 17:51:30,761	DEBUG	CONFIGDIR=/Users/user/.matplotlib
-2023-10-08 17:51:30,763	DEBUG	interactive is False
-2023-10-08 17:51:30,763	DEBUG	platform is darwin
+2023-10-22 20:23:38,820	INFO	1	428900901
+2023-10-22 20:23:41,353	INFO	0	428900901
+2023-10-22 20:23:56,817	INFO	1	428900901
+2023-10-22 20:23:58,941	INFO	0	428900901
+2023-10-22 20:37:48,334	INFO	1	428900901
+2023-10-22 20:38:16,879	ERROR	6	428900901
+2023-10-22 20:38:16,886	INFO	0	428900901
+2023-10-22 20:38:52,931	INFO	1	428900901
+2023-10-22 20:38:55,662	INFO	0	428900901
+2023-10-22 20:39:01,324	INFO	2	428900901
+2023-10-22 20:39:03,486	INFO	0	428900901
+2023-10-22 20:39:11,423	INFO	3	428900901
+2023-10-22 20:39:12,116	INFO	0	428900901
+2023-10-22 20:39:33,941	INFO	4	428900901
+2023-10-22 20:39:37,461	INFO	0	428900901
+2023-10-22 20:39:49,460	INFO	5	428900901
+2023-10-22 20:39:49,677	INFO	0	428900901
+2023-10-22 20:41:51,838	INFO	5	428900901
+2023-10-22 20:41:51,977	INFO	0	428900901
+2023-10-22 20:42:29,921	INFO	5	428900901
+2023-10-22 20:42:30,175	INFO	0	428900901
+2023-10-22 20:43:30,908	INFO	0	428900901
+2023-10-22 20:43:31,059	INFO	0	428900901
+2023-10-22 20:43:52,507	INFO	1	428900901
+2023-10-22 20:43:55,021	INFO	0	428900901
+2023-10-22 20:43:59,060	INFO	2	428900901
+2023-10-22 20:43:59,603	ERROR	6	428900901
+2023-10-22 20:43:59,603	INFO	0	428900901
+2023-10-22 20:44:07,361	INFO	2	428900901
+2023-10-22 20:44:09,731	INFO	0	428900901
+2023-10-22 20:44:17,420	INFO	3	428900901
+2023-10-22 20:44:17,829	INFO	0	428900901
+2023-10-22 20:44:24,839	INFO	4	428900901
+2023-10-22 20:44:27,643	INFO	0	428900901
+2023-10-22 20:44:33,019	INFO	5	428900901
+2023-10-22 20:44:33,606	ERROR	6	428900901
+2023-10-22 20:44:33,606	INFO	0	428900901
+2023-10-22 21:16:30,960	ERROR	No such comm target registered: jupyter.widget.control
+2023-10-22 21:16:30,965	WARNING	No such comm: 8f22371c-f10a-4736-b37d-cd322ae2f1a6
+2023-10-22 21:16:30,965	DEBUG	Current comms: []
